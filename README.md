@@ -76,7 +76,7 @@ You'll need to add a reference to your MCP server in the `claude_desktop_congif.
 
 ### Troubleshooting
 
-1. **Can't find my hub**: [Provision your APS app in your ACC hub](https://get-started.aps.autodesk.com/#provision-access-in-other-products)
+1. **Can't find my hub**: [Provision your APS app in your hub of Forma for Construction](https://get-started.aps.autodesk.com/#provision-access-in-other-products)
 
 2. If you made changes to the code and want this to be reflected in Claude, you'll need to end the CLaude task before rebuilding the solution.
 
